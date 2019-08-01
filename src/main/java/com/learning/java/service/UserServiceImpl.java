@@ -40,7 +40,5 @@ public class UserServiceImpl implements UserService {
 	public User getUserById(int id) {
 		return this.userDao.getUserById(id);
 	}
-	
-	
 
 }
