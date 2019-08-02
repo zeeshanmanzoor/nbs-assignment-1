@@ -23,7 +23,6 @@
 				<tr>
 					<td>First Name: </td>
 					<td><form:input path="firstName"/></td>
-					<form:errors path="firstName" cssClass="error"/><br><br>
 				</tr>
 				<tr>
 					<td>Last Name: </td>
